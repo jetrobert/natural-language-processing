@@ -1,0 +1,17 @@
+Paper Title:  ['Real-Time Control of a Tokamak Plasma Using Neural Networks']
+Similar Papers:  ['Real-Time Control of a Tokamak Plasma Using Neural Networks']
+Similarity Rate:  1.0
+Similar Papers:  [ 'Pulsestream Synapses with Non-Volatile Analogue Amorphous-Silicon Memories']
+Similarity Rate:  0.973131
+Similar Papers:  ['Using a neural net to instantiate a deformable model']
+Similarity Rate:  0.306034
+Similar Papers:  ['Self-Organization of Associative Database and Its Applications']
+Similarity Rate:  0.295947
+Similar Papers:  ['A Practical Monte Carlo Implementation of Bayesian Learning']
+Similarity Rate:  0.287236
+Similar Papers:  ['Gradient and Hamiltonian Dynamics Applied to Learning in Neural Networks']
+Similarity Rate:  0.282172
+Similar Papers:  ['An experimental comparison of recurrent neural networks']
+Similarity Rate:  0.261792
+Similar Papers:  [ 'A Mean Field Theory of Layer IV of Visual Cortex and Its Application to Artificial Neural Networks']
+Similarity Rate:  0.251453
